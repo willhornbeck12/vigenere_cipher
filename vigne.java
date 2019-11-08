@@ -1,10 +1,5 @@
 import java.util.Scanner;
-/**
- * Write a description of class vigne here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
+
 public class vigne
 {
     private String word, key;
